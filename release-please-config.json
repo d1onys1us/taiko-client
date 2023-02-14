@@ -1,8 +1,7 @@
 {
   "packages": {
     ".": {
-      "release-type": "go",
-      "version-file": "./version/version.go"
+      "release-type": "go"
     }
   }
 }
